@@ -1,0 +1,104 @@
+.Nav-Bar{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: grey;
+	text-align: right;
+	height: 50px;
+	padding-top: 20px;
+
+}
+
+li{
+	display: inline;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	font-size: 27px;
+	overflow: hidden;
+	font-family: 'Raleway', sans-serif;
+}
+
+li a {
+	color: black;
+ text-decoration: none;
+}
+
+.Brand{
+	position: relative;
+	right: 820px;
+	font-size: 38px;
+}
+
+a:hover {
+ color: green;
+ text-decoration: none;
+
+}
+
+.Myself{
+	color: white;
+	background-color: green;
+	text-align: center;
+	padding: 200px 100px 200px 100px;
+	font-size: 45px;
+	font-family: 'Raleway', sans-serif;
+	line-height: 75px;
+}
+
+.My-Job{
+	text-decoration: underline;
+}
+
+.About-Me{
+	background-color: grey;
+	text-align: center;
+	line-height: 37px;
+	height: 180px;
+	padding-top: 45px;
+	font-size: 30px;
+	font-family:'Raleway', sans-serif;
+}
+
+.where{
+	text-align: center;
+	font-size: 41px;
+	padding-top: 60px;
+	height: 80px;
+	text-decoration: underline;
+}
+
+.container{
+	width: 1320px;
+    margin: 15px auto 0;
+	display: table;
+	box-sizing: border-box;
+	height: 300px;
+}
+
+.row{
+  margin: 20px 0;
+}
+
+.column{
+	background: #ccc;
+	display: table-cell;
+	width: 33.33333%;
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: center;
+	color: #fff;
+	vertical-align: middle;
+	height: 350px;
+	border-right: 10px solid #fff;
+}
+
+.Copyright{
+	color: white;
+	text-align: center;
+	padding-top: 49px;
+	background-color: black;
+	height: 70px;
+	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+}
